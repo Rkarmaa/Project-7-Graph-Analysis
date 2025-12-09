@@ -128,4 +128,5 @@ bool Graph::is_bipartite()
     }
     // the graph is bipartite
     return true;
+    
 }
